@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageViewSample</string>
+    <string name="contentDescription">Defines text that briefly describes content of the view.</string>
 </resources>
