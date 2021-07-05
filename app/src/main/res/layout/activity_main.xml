@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
-    tools:context=".MainActivity">
+    tools:context="com.example.accessibilityviewsample.MainActivity">
 
     <!-- stat_sys_vp_phone_callの比率%:   (44 ： 55) -->
     <ImageView

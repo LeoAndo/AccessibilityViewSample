@@ -1,7 +1,8 @@
-package com.example.imageviewsample
+package com.example.accessibilityviewsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.accessibilityviewsample.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
