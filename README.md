@@ -6,5 +6,4 @@ https://github.com/LeoAndo/ImageViewSample/blob/main/app/src/main/res/values-ja/
 
 <img src="https://user-images.githubusercontent.com/16476224/124463739-4674e700-ddce-11eb-9735-a6278c2d2022.png" width=320 />
 
-テスト方法は以下にまとめています。
-[ref](https://github.com/LeoAndo/ImageViewSample/blob/main/doc/%E3%83%A6%E3%83%BC%E3%82%B6%E8%A3%9C%E5%8A%A9%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E6%96%B9%E6%B3%95.pdf)
+[ユーザ補助機能のテスト方法](https://github.com/LeoAndo/ImageViewSample/blob/main/doc/%E3%83%A6%E3%83%BC%E3%82%B6%E8%A3%9C%E5%8A%A9%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E6%96%B9%E6%B3%95.pdf)
