@@ -1,6 +1,6 @@
 # For Accessibility
 
-ユーザ補助対応していると、以下のキャプチャのように枠線でViewが囲まれてViewの表示時に音声読み上げが行われます。<br>
+ユーザ補助対応していると、以下のキャプチャのようにViewが枠線で囲まれてViewの表示時に音声読み上げが行われます。<br>
 今回の場合だと、言語設定：日本語の環境だったので、以下の文言が読み上げられます。<br>
 https://github.com/LeoAndo/ImageViewSample/blob/main/app/src/main/res/values-ja/strings.xml#L3<br>
 
